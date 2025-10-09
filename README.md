@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=xuzhang99)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Xu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuzhang99)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Xu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuzhang99)](https://github.com/anuraghazra/github-readme-stats)
