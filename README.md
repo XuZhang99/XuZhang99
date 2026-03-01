@@ -5,16 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on LLM inference.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 📖 I majored in mathematics and computer science.
+- 🔭 I’m currently working on LLM/VLM/DiT inference, maintainer of (xllm)[https://github.com/jd-opensource/xllm]. By the way, I am also familiar with (vllm)[https://github.com/vllm-project/vllm] and (sglang)[https://github.com/sgl-project/sglang].
+- 💬 I'm also learning LLM pre-training (Megatron-LM)[https://github.com/NVIDIA/Megatron-LM] and post-training (slime)[https://github.com/THUDM/slime].
+- 📫 How to reach me: (email)[zhangxu1621@gmai.com]
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xuzhang99" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuzhang99&layout=compact&langs_count=8&card_width=320" />
-</a>
+- 📖 I majored in mathematics and computer science.
+- 🔭 I’m currently working on LLM/VLM/DiT inference, maintainer of [xllm](https://github.com/jd-opensource/xllm). By the way, I am also familiar with [vllm](https://github.com/vllm-project/vllm) and [sglang](https://github.com/sgl-project/sglang).
+- 💬 I'm also learning LLM pre-training [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) and post-training [slime](https://github.com/THUDM/slime).
+- 📫 How to reach me: [email](zhangxu1621@gmai.com)
